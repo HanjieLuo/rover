@@ -30,6 +30,7 @@ class MotorControl:
         self.pwm_m2 = PWM(Pin(0), freq=17000, duty=0)
         self.pwm_m3 = PWM(Pin(2), freq=17000, duty=0)
         
+        # 正，反，停
         self.dir = [[0b01000000, 0b10000000, 0b00000000], [0b00001000, 0b00010000, 0b00000000], [0b00000010, 0b00000100, 0b00000000]]
         
         self.dir_params = [0, 1, 2]

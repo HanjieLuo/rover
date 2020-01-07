@@ -1,10 +1,11 @@
+from machine import Pin, I2C
+from ssd1306 import SSD1306_I2C
+
 """
 pin
 22: scl
 21: sda 
 """
-from machine import Pin, I2C
-from ssd1306 import SSD1306_I2C
 
 class OLEDPrint:
     def __init__(self, i2c=None, addr=60, row_height=10, width=128, height=64):

@@ -1,0 +1,410 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "socket_client.py",
+			"settings":
+			{
+				"buffer_size": 4553,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.py",
+			"settings":
+			{
+				"buffer_size": 1337,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": ">>> 1,1,200,1,200,1,200\n>>> 1,0,200,0,200,0,200\n>>> 1,2,0,2,0,2,0\n>>> \n***Repl Killed***\n",
+			"settings":
+			{
+				"buffer_size": 89,
+				"line_ending": "Windows",
+				"name": "*REPL* [python]",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/luoha/Documents/workspace/rover/client"
+	],
+	"file_history":
+	[
+		"/C/Users/luoha/Documents/workspace/rover/client/ble_client.py",
+		"/C/Users/luoha/AppData/Local/Temp/BNZ.5e0884c738670b8/stm8s_uart_test.c",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/luoha/Documents/workspace/robot/socket_client.py",
+		"/E/Downloads/opencmdhere.txt",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [14.5][Ma10p_1080p][x265_flac].Sumi×Caso-TC.ass",
+		"/C/Program Files (x86)/World of Warcraft/Interface/AddOns/premade-filter/premade-filter.lua",
+		"/C/Users/luoha/Documents/workspace/ScriptHookV_SDK_1.0.617.1a/inc/main.h",
+		"/C/Users/luoha/Documents/workspace/GTAVisionExport/native/src/MinHook.h",
+		"/C/Users/luoha/Documents/workspace/GTAVisionExport/native/src/main.cpp",
+		"/C/Program Files (x86)/World of Warcraft/Interface/AddOns/premade-filter/Changelog-premade-filter-2.0.6.txt",
+		"/F/Nvidia Jetson Nano.md",
+		"/D/World of Warcraft/interface/addons/GarrisonMissionManager/GarrisonMissionManager.lua",
+		"/D/World of Warcraft/WTF/Config.wtf",
+		"/C/Program Files (x86)/ACT一键整合/Plugin/FZ.Timeline/resources/timeline/ffxiv-timeline-master/README.md",
+		"/C/Program Files (x86)/World of Warcraft/WTF/Config.wtf",
+		"/C/Users/luoha/Downloads/CameraPointgrey.h",
+		"/C/Users/luoha/Downloads/CameraPointgrey (1).cpp",
+		"/C/Users/luoha/Downloads/CameraPointgrey.cpp",
+		"/C/Users/luoha/Downloads/CameraPointgrey (2).cpp",
+		"/C/Users/luoha/Downloads/Tapp--Matrix Groups for Undergraduates(无黑边，干淨版).pdf",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [14][Ma10p_1080p][x265_flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [21][Ma10p_1080p][x265_2flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [20][Ma10p_1080p][x265_flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [19][Ma10p_1080p][x265_2flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [18][Ma10p_1080p][x265_flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [17][Ma10p_1080p][x265_2flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [16][Ma10p_1080p][x265_flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [15][Ma10p_1080p][x265_flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [13][Ma10p_1080p][x265_2flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [12][Ma10p_1080p][x265_2flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [11][Ma10p_1080p][x265_flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [10][Ma10p_1080p][x265_flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [09][Ma10p_1080p][x265_flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [08][Ma10p_1080p][x265_2flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [07][Ma10p_1080p][x265_flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [06][Ma10p_1080p][x265_flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [05][Ma10p_1080p][x265_flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [04][Ma10p_1080p][x265_2flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [03][Ma10p_1080p][x265_flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [02][Ma10p_1080p][x265_flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [01][Ma10p_1080p][x265_2flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[VCB-Studio] Sword Art Online II [22][Ma10p_1080p][x265_flac].Sumi×Caso-TC.ass",
+		"/C/Users/luoha/Downloads/[SumiSora][Sword_Art_Online][BDRip][02][x264_flac](37397DEC).sc.ass",
+		"/C/Program Files (x86)/World of Warcraft/Interface/AddOns/Tukui_Config/Tukui_Config.toc",
+		"/C/Program Files (x86)/World of Warcraft/Interface/AddOns/Tukui_Config/Tukui_Config.lua",
+		"/C/Program Files (x86)/World of Warcraft/Interface/AddOns/Tukui/Modules/Init.xml",
+		"/C/Program Files (x86)/World of Warcraft/Interface/AddOns/Tukui/Modules/ActionBars/Extra.lua",
+		"/C/Program Files (x86)/World of Warcraft/Interface/AddOns/Tukui/Modules/ActionBars/Range.lua",
+		"/C/Program Files (x86)/World of Warcraft/Interface/AddOns/Tukui/Modules/ActionBars/Core.lua",
+		"/C/Program Files (x86)/World of Warcraft/Interface/AddOns/Tukui/Modules/ActionBars/Bindings.lua",
+		"/C/Program Files (x86)/World of Warcraft/Interface/AddOns/Tukui/Config/Config.lua",
+		"/C/Program Files (x86)/World of Warcraft/Interface/AddOns/Tukui/Modules/Panels/Core.lua",
+		"/C/Program Files (x86)/World of Warcraft/Interface/AddOns/Tukui/Modules/ActionBars/Bar5.lua"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "socket_client.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4331,
+								4331
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2244.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								351,
+								367
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "ef8bc901b0cb462fb66c0e1b484959d1",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"E:/Python/Python38/python.exe",
+									"-u",
+									"-i",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.511087645195,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 107.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "client.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

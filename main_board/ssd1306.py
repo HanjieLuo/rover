@@ -1,6 +1,7 @@
 # MicroPython SSD1306 OLED driver, I2C and SPI interfaces
 from micropython import const
 import framebuf
+import time
 
 
 # register definitions
@@ -118,7 +119,7 @@ class SSD1306_SPI(SSD1306):
         self.dc = dc
         self.res = res
         self.cs = cs
-        import time
+
         self.res(1)
         time.sleep_ms(1)
         self.res(0)
@@ -145,7 +146,6 @@ class SSD1306_SPI(SSD1306):
 
 if __name__ == '__main__':
     from machine import Pin, I2C
-    import time
     
     i2c = I2C(scl=Pin(22), sda=Pin(21), freq=400000)
     print(i2c.scan())
